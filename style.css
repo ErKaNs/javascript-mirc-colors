@@ -1,0 +1,147 @@
+.irc-0 {
+	color: #fff
+}
+
+.irc-1 {
+	color: #000
+}
+
+.irc-2 {
+	color: #001f3f
+}
+
+.irc-3 {
+	color: #2ecc40
+}
+
+.irc-4 {
+	color: #ff4136
+}
+
+.irc-5 {
+	color: #85144b
+}
+
+.irc-6 {
+	color: #b10dc9
+}
+
+.irc-7 {
+	color: #ff851b
+}
+
+.irc-8 {
+	color: #ffdc00
+}
+
+.irc-9 {
+	color: #01ff70
+}
+
+.irc-10 {
+	color: #39cccc
+}
+
+.irc-11 {
+	color: #0ff
+}
+
+.irc-12 {
+	color: #0074d9
+}
+
+.irc-13 {
+	color: #f012be
+}
+
+.irc-14 {
+	color: #aaa
+}
+
+.irc-15 {
+	color: #ddd
+}
+
+.irc-bg0 {
+	background: #fff
+}
+
+.irc-bg1 {
+	background: #000
+}
+
+.irc-bg2 {
+	background: #001f3f
+}
+
+.irc-bg3 {
+	background: #2ecc40
+}
+
+.irc-bg4 {
+	background: #ff4136
+}
+
+.irc-bg5 {
+	background: #85144b
+}
+
+.irc-bg6 {
+	background: #b10dc9
+}
+
+.irc-bg7 {
+	background: #ff851b
+}
+
+.irc-bg8 {
+	background: #ffdc00
+}
+
+.irc-bg9 {
+	background: #01ff70
+}
+
+.irc-bg10 {
+	background: #39cccc
+}
+
+.irc-bg11 {
+	background: #0ff
+}
+
+.irc-bg12 {
+	background: #0074d9
+}
+
+.irc-bg13 {
+	background: #f012be
+}
+
+.irc-bg14 {
+	background: #aaa
+}
+
+.irc-bg15 {
+	background: #ddd
+}
+
+.irc-bold {
+	font-weight: 700
+}
+
+.irc-underline {
+	text-decoration: underline
+}
+
+.irc-strikethrough {
+	text-decoration: line-through
+}
+
+.irc-underline.irc-strikethrough {
+	text-decoration: underline line-through
+}
+
+.irc-italic {
+	font-style: italic
+}
