@@ -11,17 +11,19 @@ ForceColor('4,4 0,1 Yayinda su an »»» 4,1DJ|Ritim 0,1««« bulunmakta 
 </code>
 <br>
 see result :<br>
-https://codepen.io/erkans-the-sans/pen/xmexRG
-https://jsfiddle.net/erkans33/sdyufht4/
-https://codepen.io/erkans-the-sans/pen/xmexRG
-http://cssdeck.com/labs/7azuznbn
-https://jsbin.com/wimokiy/edit?html,css,js,output
-https://output.jsbin.com/wimokiy/1
-http://dabblet.com/gist/a30d44060ecee9145102b20971df36de
-http://plnkr.co/edit/MpFJ04ividjqz4knrElF?p=preview
-https://liveweave.com/rkKf36
-https://9knr3qqjp.codesandbox.io/
-https://codesandbox.io/s/9knr3qqjp
+https://codepen.io/erkans-the-sans/pen/xmexRG<br>
+https://jsfiddle.net/erkans33/sdyufht4/<br>
+https://codepen.io/erkans-the-sans/pen/xmexRG<br>
+http://cssdeck.com/labs/7azuznbn<br>
+https://jsbin.com/wimokiy/edit?html,css,js,output<br>
+https://output.jsbin.com/wimokiy/1<br>
+http://dabblet.com/gist/a30d44060ecee9145102b20971df36de<br>
+http://plnkr.co/edit/MpFJ04ividjqz4knrElF?p=preview<br>
+https://liveweave.com/rkKf36<br>
+https://9knr3qqjp.codesandbox.io/<br>
+https://codesandbox.io/s/9knr3qqjp<br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -51,6 +53,4 @@ https://codesandbox.io/s/9knr3qqjp
 
 
 
-
-
-<a href="https://www.okeyy.net/okey" title="okey" rel="me dofollow">Okey</a>
+<h1><a href="https://www.okeyy.net/okey" title="okey" rel="me dofollow">Okey</a></h1>
