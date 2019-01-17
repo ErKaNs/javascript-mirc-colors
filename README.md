@@ -26,9 +26,8 @@ http://plnkr.co/edit/MpFJ04ividjqz4knrElF?p=preview<br>
 https://liveweave.com/rkKf36<br>
 https://9knr3qqjp.codesandbox.io/<br>
 https://codesandbox.io/s/9knr3qqjp<br>
-https://repl.it/@ErKaNs/irc-colorsp<br>
-https://irc-colors--erkans.repl.cop<br>
-https://erkans.github.io/javascript-mirc-colors/
+https://repl.it/@ErKaNs/irc-colors<br>
+https://erkans.github.io/javascript-mirc-colors/<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
