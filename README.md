@@ -44,4 +44,4 @@ ForceColor('4,4 0,1 Yayinda su an »»» 4,1DJ|Ritim 0,1««« bulunmakta 
 
 
 
-<h1><a href="https://www.okeyy.net/okey" title="okey" rel="me dofollow">Okey</a></h1>
+
